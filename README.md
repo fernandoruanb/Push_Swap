@@ -142,6 +142,16 @@ That silent behavior is important because unnecessary operations would be wrong 
 
 ## Algorithm Choice and Cost
 
+<p align="center">
+  <img src="https://www.marcioflavio.com/content/images/2024/03/push_swap_visualizer.gif" 
+       alt="Push Swap Visualizer example" 
+       width="700">
+</p>
+
+<p align="center">
+  <em>Illustrative example of a Push_Swap working— credits to o-reo.</em>
+</p>
+
 One of the most subtle lessons in **push_swap** is understanding that sorting is not only about order.
 
 It is about **cost**.
