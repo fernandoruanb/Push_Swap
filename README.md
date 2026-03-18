@@ -62,7 +62,7 @@ It is also about:
 
 To achieve the best score, I chose the **Mechanical Turk algorithm**, because in **push_swap** the goal is not necessarily to build the most theoretically powerful sorting algorithm in the world, but to design or select one that solves the problem **within the move limits required for the project**.
 
-To understand better, there is an useful website **https://vscza.itch.io/push-swap** to visualize the problem of thepush_swap by practicing it.
+To understand better, there is an useful website **https://vscza.itch.io/push-swap** to visualize the problem of the push_swap by practicing it.
 
 <html>
 <p align="center">
